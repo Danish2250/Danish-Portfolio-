@@ -5,7 +5,7 @@ window.PORTFOLIO = {
   location: 'Jammu and Kashmir, India', email: '', phone: '',
   accent: '#1fb36b', portrait: 'assets/danish.jpg', alternatePortrait: '',
   links: {whatsapp:'',instagram:'',linkedin:'https://www.linkedin.com/in/mir-danish-5a41902a3',github:'https://github.com/Danish2250'},
-  resume: '',
+  resume: 'assets/Danish-Manzoor-Resume.pdf',
   about: 'I am a Computer Science Engineering student with a CGPA of 7.65 and hands-on experience building full-stack web applications using Java, Spring Boot, React, Node.js, Express.js, MongoDB and MySQL. I built TeamOS AI, a team workspace platform with Google Gemini integration, and completed the Datacom software development job simulation, which focused on debugging and code review. I am looking for a software development role where I can apply my problem-solving and teamwork skills.',
   services: [
     {title:'Full-Stack Web Development',detail:'Web applications with React, JavaScript, Node.js, Express.js and REST APIs.'},
