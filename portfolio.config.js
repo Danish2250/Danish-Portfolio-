@@ -2,9 +2,16 @@
 window.PORTFOLIO = {
   name: 'Danish Manzoor', firstName: 'DANISH MANZOOR', role: 'Aspiring Full-Stack Developer',
   intro: 'Computer Science Engineering student (B.E., expected 2027) building full-stack web applications with Java, Spring Boot, React, Node.js and MongoDB. I like solving problems and working in a team.',
-  location: 'Jammu and Kashmir, India', email: '', phone: '',
+  location: 'Jammu and Kashmir, India',
+email: 'danishmir2250@gmail.com',
+phone: '+917889328755',
   accent: '#1fb36b', portrait: 'assets/danish.jpg', alternatePortrait: '',
-  links: {whatsapp:'',instagram:'',linkedin:'https://www.linkedin.com/in/mir-danish-5a41902a3',github:'https://github.com/Danish2250'},
+  links: {
+  whatsapp: 'https://wa.me/917889328755',
+  instagram: 'https://www.instagram.com/mir_danish846?xtok=MXJxdzlyZHZxeG15Nw==',
+  linkedin: 'https://www.linkedin.com/in/mir-danish-5a41902a3',
+  github: 'https://github.com/Danish2250'
+},
   resume: 'assets/Danish-Manzoor-Resume.pdf',
   about: 'I am a Computer Science Engineering student with a CGPA of 7.65 and hands-on experience building full-stack web applications using Java, Spring Boot, React, Node.js, Express.js, MongoDB and MySQL. I built TeamOS AI, a team workspace platform with Google Gemini integration, and completed the Datacom software development job simulation, which focused on debugging and code review. I am looking for a software development role where I can apply my problem-solving and teamwork skills.',
   services: [
